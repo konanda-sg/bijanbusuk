@@ -30,14 +30,14 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
 https://linears-playback.astro.com.my/vsg/41zAVNAJ6AcJzWXkOoZ7fw7yadLcQMYrmk6RUeB1x_BVc=zxll/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-https://linears-playback.astro.com.my/vsg/41zAVNAJ6AcJzWXkOoZ7fw73Ay-VkgaRRoPXwhabSEakg=mkdf/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+http://kmkus.wanicelife.com:8880/live/3ca7283n03/asdf23e423/1705.ts
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/1705.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1705
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -66,8 +66,7 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1706
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
 https://linears-playback.astro.com.my/vsg/41QjUdjBrvTpca7zWktzcjyUqE8dLvuvdcvmvw5P1yZ40=i-UP/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
@@ -1105,20 +1104,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1705
-
 
 
 *****************************WARNA*************************************
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 
 
 ************************CITRA**************************************
 
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
 
 
 ******************************live******************************************************
