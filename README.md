@@ -1098,6 +1098,8 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1705
 EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71020
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+http://toh-users.xyz:8080/42204120/16250164/798400
 *****************************WARNA*************************************
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
@@ -1114,6 +1116,8 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1706
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://vo01.mohdtv.com:8880/voby1993/85233644/1706
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://toh-users.xyz:8080/42204120/16250164/798428
 
 ************************CITRA**************************************
 
@@ -1125,9 +1129,20 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 https://kametv.my.id/putar/malay/citra.php
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
+http://toh-users.xyz:8080/42204120/16250164/798391
+
+
+http://toh-users.xyz:8080/42204120/16250164/798390
 ******************************live******************************************************
-
-
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Oasis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",MY:Oasis
+http://myteve.online:8080/2d124d42/50dbd8b08e/157489
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Prima" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",MY:Prima
+http://myteve.online:8080/2d124d42/50dbd8b08e/157467
+#EXTINF:-1 tvg-id="" tvg-name="MY: Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/515d63ff66edb49dc64a03093e9f6fd2.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",MY:Boomerang
+http://myteve.online:8080/2d124d42/50dbd8b08e/171955
+#EXTINF:-1 tvg-id="" tvg-name="MY: Cartoonito" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",MY:Cartoonito
+http://myteve.online:8080/2d124d42/50dbd8b08e/300865
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
