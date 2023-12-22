@@ -1133,7 +1133,7 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
 http://toh-users.xyz:8080/42204120/16250164/798391
 
 
-http://toh-users.xyz:8080/42204120/16250164/798390
+
 ******************************live******************************************************
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Oasis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",MY:Oasis
 http://myteve.online:8080/2d124d42/50dbd8b08e/157489
