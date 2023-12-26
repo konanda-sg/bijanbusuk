@@ -35,12 +35,16 @@ https://linears-playback.astro.com.my/vsg/41zAVNAJ6AcJzWXkOoZ7fw7yadLcQMYrmk6RUe
 http://vo01.mohdtv.com:8880/voby1993/85233644/1705
 http://vo01.mohdtv.com:8880/voby1993/85233644/71020
 
-#XTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 https://ktpremium.com:443/live/mkt1420/568765164/25855.m3u8
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/158347
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/157467
 http://iptvtree.net:8080/67e74f3b-10/38d644d82e/157467
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
