@@ -23,7 +23,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -32,6 +32,7 @@ http://vo01.mohdtv.com:8880/voby1993/85233644/1705
 https://linears-playback.astro.com.my/vsg/41zAVNAJ6AcJzWXkOoZ7fw7yadLcQMYrmk6RUeB1x_BVc=zxll/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #XTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+https://ktpremium.com:443/live/mkt1420/568765164/25855.m3u8
 http://vo01.mohdtv.com:8880/voby1993/85233644/71020
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
